@@ -54,9 +54,7 @@
 
             </script>
 
-            </address>
-
-    </div>
+       
     <section>
         <div class="btncontainer">
             <a class="btn " href="#" class="btn">Download Resume</a>
